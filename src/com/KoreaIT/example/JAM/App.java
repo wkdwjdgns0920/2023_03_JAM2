@@ -13,7 +13,9 @@ public class App {
 	public void start() {
 		System.out.println("=프로그램 시작==");
 		Scanner sc = new Scanner(System.in);
-
+		
+		
+		
 		while (true) {
 			System.out.print("명령어 ) ");
 			String cmd = sc.nextLine().trim();
